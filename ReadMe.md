@@ -5,7 +5,7 @@
 🔐 Exploring authentication, REST APIs, and clean architecture <br>
 🚀 Passionate about building scalable apps and solving real-world problems <br>
 📚 Currently learning: System Design & Cloud Fundamentals (AZ-900) <br>
- Fun fact: I also run a Tokyo Based Startup caleed AbroadMates
+ Fun fact: I also run a Tokyo Based Startup calleed AbroadMates
 
 <br>
 
