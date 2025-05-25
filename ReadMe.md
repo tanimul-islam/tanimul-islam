@@ -1,13 +1,11 @@
 # 💫 About Me:
-Hi, I’m Tanimul Islam
-🎓 Computer Programming @ Seneca Polytechnic
-🌐 Full-Stack Developer | Aspiring Software Engineer
-💻 I work with Next.js, MongoDB, TypeScript, and Tailwind CSS
-🔐 Exploring authentication, REST APIs, and clean architecture
-🚀 Passionate about building scalable apps and solving real-world problems
-📚 Currently learning: System Design & Cloud Fundamentals (AZ-900)
-🎯 Goal: Land a full-time Software Engineer role in Canada
-🎸 Fun fact: I also run a YouTube channel with Bengali song covers!
+🎓 Computer Programming @ Seneca Polytechnic <br>
+🌐 Full-Stack Developer | Aspiring Software Engineer <br>
+💻 I work with Next.js, MongoDB, TypeScript, and Tailwind CSS <br>
+🔐 Exploring authentication, REST APIs, and clean architecture <br>
+🚀 Passionate about building scalable apps and solving real-world problems <br>
+📚 Currently learning: System Design & Cloud Fundamentals (AZ-900) <br>
+ Fun fact: I also run a Tokyo Based Startup caleed AbroadMates
 
 <br>
 
