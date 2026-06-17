@@ -1,12 +1,9 @@
 # 💫 About Me:
-🎓 Computer Programming @ Seneca Polytechnic <br>
-🌐 Full-Stack Developer | Aspiring Software Engineer <br>
+🎓 Founding Software Developer @AbroadMates <br>
+🌐 Full-Stack Developer <br>
 💻 I work with Next.js, MongoDB, TypeScript, and Tailwind CSS <br>
-🔐 Exploring authentication, REST APIs, and clean architecture <br>
-🚀 Passionate about building scalable apps and solving real-world problems <br>
-📚 Currently learning: System Design & Cloud Fundamentals (AZ-900) <br>
- Fun fact: I also run a Tokyo Based Startup calleed AbroadMates
-
+🔐 Exploring RAG,VectorDB, Docker <br>
+BootCamp: Next Level Web Development by ProgrammingHero
 <br>
 
 
